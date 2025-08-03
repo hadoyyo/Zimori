@@ -1,7 +1,7 @@
 # Zimori - Ecosystem Simulation Web Application
 
 <div align="center">
-  <img width="80%" src="./public/logo-lg.png"/>
+  <img width="60%" src="./public/logo-lg.png"/>
 </div>
 
 ## Table of Contents
